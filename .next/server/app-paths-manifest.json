@@ -1,0 +1,5 @@
+{
+  "/call/[roomId]/page": "app/call/[roomId]/page.js",
+  "/companions/page": "app/companions/page.js",
+  "/api/companions/route": "app/api/companions/route.js"
+}
